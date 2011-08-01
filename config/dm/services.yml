@@ -1,0 +1,8 @@
+parameters:  
+  markdown.class:             myHighlightMarkdown  
+  
+services:  
+  markdown:  
+    class:                    %markdown.class%  
+    shared:                   true  
+    arguments:                [ @helper, %markdown.options% ] 

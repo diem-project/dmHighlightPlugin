@@ -1,0 +1,25 @@
+js:
+
+  dmHighlightPlugin:
+    
+    highlight:        highlight.min
+    enablehighlight:  enablehighlight
+
+css:
+
+  dmHighlightPlugin:
+
+    default:          themes/default
+    ascetic:          themes/ascetic
+    brown_paper:      themes/brown_paper
+    dark:             themes/dark
+    far:              themes/far
+    github:           themes/github
+    idea:             themes/idea
+    ir_black:         themes/ir_black
+    magula:           themes/magula
+    school_book:      themes/school_book
+    sunburst:         themes/sunburst
+    vs:               themes/vs
+    zenburn:          themes/zenburn
+    
